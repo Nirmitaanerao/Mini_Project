@@ -1,1 +1,3 @@
 # Mini_Project
+
+Develop an SVM-based handwritten Arabic character recognition system using a publicly available Arabic character dataset. Students should perform dataset exploration, image preprocessing and feature preparation before training a multi-class SVM classifier. The system should classify unseen Arabic character images and evaluate its performance using accuracy, precision, recall, F1-score and confusion matrix. Students should identify character classes that are frequently misclassified and provide an interpretation of the classification results. Students must create a public GitHub repository containing all Python files developed for the project and submit the repository link.
